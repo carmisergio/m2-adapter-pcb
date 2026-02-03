@@ -3357,7 +3357,7 @@
 		(uuid "223a86a7-1803-435d-943f-c43e2187283d")
 	)
 	(no_connect
-		(at 116.84 134.62)
+		(at 116.84 135.89)
 		(uuid "26b0848f-74f2-4fe7-8e05-8a6edc8bc455")
 	)
 	(no_connect
@@ -5442,7 +5442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "m2-adapter-pcb:CONN_67490-1220_MOL"
+		(property "Footprint" "m2-adapter-pcb:AMPHENOL_SAT3M2132072TR"
 			(at 30.48 97.79 0)
 			(effects
 				(font
