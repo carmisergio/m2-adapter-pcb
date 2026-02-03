@@ -669,4 +669,15 @@
 		(uuid "5772a83f-ec40-4092-9fe9-64d459a1a75a")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/m2-adater-pcb.3dshapes/MDT420B03001--3DModel-STEP-533217.STEP"
+		(offset
+			(xyz 0 1.75 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
